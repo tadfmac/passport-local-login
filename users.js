@@ -1,0 +1,1 @@
+module.exports = {"guest":{"id":"guest","name":"ゲスト","pass":"dliqsheo"},"kodama":{"pass":"1234"}}
